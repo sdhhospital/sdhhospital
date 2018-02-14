@@ -1,2 +1,1 @@
 # sdhhospital
-# sdhhospital.github.io
