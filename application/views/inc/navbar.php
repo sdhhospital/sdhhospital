@@ -2,7 +2,7 @@
     <div class="container">
         <a class="navbar-brand text-center" href="<?php echo base_url();?>index">
             <img src="<?php echo base_url();?>application/assets/images/logo.jpg" width="50px" height="50px" alt=""><br>
-            <small>Seven day<span>Homeopathic</span> Hospital</small>
+            <small>Seven day <span>Homeopathic</span> Hospital</small>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="oi oi-menu"></span> Menu

@@ -197,6 +197,52 @@
             </div>      
           </div>
         </div>
+        <div class="row">
+          <div class="col-md-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="icon d-flex justify-content-center align-items-center">
+            		<span class="flaticon-view"></span>
+              </div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Teeth Whitening</h3>
+                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="icon d-flex justify-content-center align-items-center">
+            		<span class="flaticon-kidney"></span>
+              </div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Teeth Cleaning</h3>
+                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="icon d-flex justify-content-center align-items-center">
+            		<span class="flaticon-liver"></span>
+              </div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Quality Brackets</h3>
+                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="icon d-flex justify-content-center align-items-center">
+            		<span class="flaticon-anesthesia"></span>
+              </div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Modern Anesthetic</h3>
+                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="container-wrap mt-5">
       	<div class="row d-flex no-gutters">
@@ -205,7 +251,7 @@
       		<div class="col-md-6 d-flex">
       			<div class="about-wrap">
       				<div class="heading-section heading-section-white mb-5 ftco-animate">
-		            <h2 class="mb-2">Dentacare with a personal touch</h2>
+		            <h2 class="mb-2">Seven day Homeopathic Hospital with a personal touch</h2>
 		            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
 		          </div>
       				<div class="list-services d-flex ftco-animate">
@@ -669,7 +715,7 @@
     		<div class="row">
     			<div class="col-md-6 pr-md-5 aside-stretch py-5 choose">
     				<div class="heading-section heading-section-white mb-5 ftco-animate">
-	            <h2 class="mb-2">DentaCare Procedure &amp; High Quality Services</h2>
+	            <h2 class="mb-2">Seven day Homeopathic Hospital Procedure &amp; High Quality Services</h2>
 	          </div>
 	          <div class="ftco-animate">
 	          	<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. Because there were thousands of bad Commas, wild Question Marks and devious Semikoli</p>

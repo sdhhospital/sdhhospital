@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7a43c04-5748-41c5-bf8d-b9e8ee625dd2" name="Default Changelist" comment="" />
+    <list default="true" id="d7a43c04-5748-41c5-bf8d-b9e8ee625dd2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/application/assets/css/flaticon.css" beforeDir="false" afterPath="$PROJECT_DIR$/application/assets/css/flaticon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/inc/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/inc/navbar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/index.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,15 +30,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/assets/css/flaticon.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-221" />
+            <state relative-caret-position="289">
+              <caret line="17" column="14" selection-end-line="47" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="717" column="63" selection-start-line="717" selection-start-column="63" selection-end-line="717" selection-end-column="63" />
+              <folding>
+                <element signature="n#div#1;n#div#1;n#div#0;n#section#2;n#!!top" />
+                <element signature="n#div#2;n#div#1;n#div#0;n#section#2;n#!!top" />
+                <element signature="n#div#3;n#div#1;n#div#0;n#section#2;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/about.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="78" column="37" lean-forward="true" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="67" />
+              <folding>
+                <element signature="e#4390#4484#0#HTML" expanded="true" />
+                <element signature="e#11151#11242#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/inc/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="79" lean-forward="true" selection-start-line="27" selection-start-column="79" selection-end-line="27" selection-end-column="91" />
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/views/index.php">
+        <entry file="file://$PROJECT_DIR$/application/views/inc/navbar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="168" column="53" selection-start-line="168" selection-start-column="43" selection-end-line="168" selection-end-column="53" />
+            <state relative-caret-position="68">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -53,6 +96,7 @@
       <find>icon mb-4 d-flex align-items-center justify-content-center</find>
       <find>.btn.btn-primary.btn-outline-primary</find>
       <find>.aside-stretch</find>
+      <find>flaticon-tooth-1</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -62,8 +106,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/application/config/autoload.php" />
-        <option value="$PROJECT_DIR$/application/views/inc/navbar.php" />
-        <option value="$PROJECT_DIR$/application/views/about.php" />
         <option value="$PROJECT_DIR$/application/assets/scss/style.scss" />
         <option value="$PROJECT_DIR$/application/controllers/Home.php" />
         <option value="$PROJECT_DIR$/application/config/routes.php" />
@@ -76,7 +118,10 @@
         <option value="$PROJECT_DIR$/application/views/inc/header.php" />
         <option value="$PROJECT_DIR$/application/views/inc/footer.php" />
         <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/assets/css/flaticon.css" />
         <option value="$PROJECT_DIR$/application/views/index.php" />
+        <option value="$PROJECT_DIR$/application/views/about.php" />
+        <option value="$PROJECT_DIR$/application/views/inc/navbar.php" />
       </list>
     </option>
   </component>
@@ -121,6 +166,13 @@
               <item name="sdhhospital" type="b2602c69:ProjectViewProjectNode" />
               <item name="sdhhospital" type="462c0819:PsiDirectoryNode" />
               <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdhhospital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdhhospital" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -129,6 +181,13 @@
               <item name="application" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sdhhospital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdhhospital" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -136,6 +195,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -165,12 +225,12 @@
       <updated>1565158718379</updated>
       <workItem from="1565158725058" duration="16669000" />
       <workItem from="1565180221661" duration="289000" />
-      <workItem from="1565181521845" duration="781000" />
+      <workItem from="1565181521845" duration="3578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17739000" />
+    <option name="totallyTimeSpent" value="20536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -189,7 +249,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32944608" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -266,30 +326,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/about.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="201" column="160" selection-start-line="201" selection-start-column="160" selection-end-line="201" selection-end-column="160" />
-          <folding>
-            <element signature="e#194#266#0#HTML" expanded="true" />
-            <element signature="e#1032#1080#0#HTML" expanded="true" />
-            <element signature="e#4304#4354#0#HTML" expanded="true" />
-            <element signature="e#6802#6852#0#HTML" expanded="true" />
-            <element signature="e#7683#7733#0#HTML" expanded="true" />
-            <element signature="e#8461#8511#0#HTML" expanded="true" />
-            <element signature="e#9232#9282#0#HTML" expanded="true" />
-            <element signature="e#10005#10055#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/inc/navbar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="81" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/Home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -355,13 +391,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/inc/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="101" selection-start-line="8" selection-start-column="101" selection-end-line="8" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/inc/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -394,13 +423,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/assets/css/flaticon.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221" />
+        <state relative-caret-position="289">
+          <caret line="17" column="14" selection-end-line="47" selection-end-column="48" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="168" column="53" selection-start-line="168" selection-start-column="43" selection-end-line="168" selection-end-column="53" />
+        <state relative-caret-position="315">
+          <caret line="717" column="63" selection-start-line="717" selection-start-column="63" selection-end-line="717" selection-end-column="63" />
+          <folding>
+            <element signature="n#div#1;n#div#1;n#div#0;n#section#2;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#section#2;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#section#2;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="78" column="37" lean-forward="true" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="67" />
+          <folding>
+            <element signature="e#4390#4484#0#HTML" expanded="true" />
+            <element signature="e#11151#11242#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/inc/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="79" lean-forward="true" selection-start-line="27" selection-start-column="79" selection-end-line="27" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/inc/navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>
