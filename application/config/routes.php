@@ -60,3 +60,4 @@ $route['blog'] = 'Home/blog';
 $route['blog-single'] = 'Home/blogsingle';
 $route['contact'] = 'Home/contact';
 $route['services'] = 'Home/services';
+$route['login'] = 'Home/login';

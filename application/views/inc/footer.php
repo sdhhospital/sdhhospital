@@ -7,9 +7,9 @@
                     <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                 </div>
                 <ul class="ftco-footer-social list-unstyled float-md-left float-lft ">
-                    <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                    <li class="ftco-animate"><a href="https://twitter.com/"><span class="icon-twitter"></span></a></li>
+                    <li class="ftco-animate"><a href="https://www.facebook.com/sevendayhomeopathic/"><span class="icon-facebook"></span></a></li>
+                    <li class="ftco-animate"><a href="https://www.instagram.com/"><span class="icon-instagram"></span></a></li>
                 </ul>
             </div>
             <div class="col-md-2">
@@ -55,9 +55,9 @@
                     <h2 class="ftco-heading-2">Office</h2>
                     <div class="block-23 mb-3">
                         <ul>
-                            <li><span class="icon icon-map-marker"></span><span class="text">Write your address here.</span></li>
-                            <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-                            <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+                            <li><span class="icon icon-map-marker"></span><span class="text">Tramri Chowk, 1 u-turn, Lehtrar Road, Taramri, Islamabad, Islamabad Capital Territory</span></li>
+                            <li><a href="#"><span class="icon icon-phone"></span><span class="text">+92 332 5401367</span></a></li>
+                            <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@sdhhospital.com</span></a></li>
                         </ul>
                     </div>
                 </div>
@@ -88,7 +88,7 @@
 <script src="<?php echo base_url();?>application/assets/js/bootstrap-datepicker.js"></script>
 <script src="<?php echo base_url();?>application/assets/js/jquery.timepicker.min.js"></script>
 <script src="<?php echo base_url();?>application/assets/js/scrollax.min.js"></script>
-<!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>-->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=ture"></script>
 <script src="<?php echo base_url();?>application/assets/js/google-map.js"></script>
 <script src="<?php echo base_url();?>application/assets/js/main.js"></script>
 

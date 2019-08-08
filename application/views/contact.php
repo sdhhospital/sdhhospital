@@ -9,7 +9,7 @@
         <div class="container" data-scrollax-parent="true">
           <div class="row slider-text align-items-end">
             <div class="col-md-7 col-sm-12 ftco-animate mb-5">
-              <p class="breadcrumbs" data-scrollax=" properties: { translateY: '70%', opacity: 1.6}"><span class="mr-2"><a href="index.html">Home</a></span> <span>Blog</span></p>
+              <p class="breadcrumbs" data-scrollax=" properties: { translateY: '70%', opacity: 1.6}"><span class="mr-2"><a href="<?php echo base_url();?>index">Home</a></span> <span>Blog</span></p>
               <h1 class="mb-3" data-scrollax=" properties: { translateY: '70%', opacity: .9}">Contact Us</h1>
             </div>
           </div>
@@ -25,16 +25,16 @@
           </div>
           <div class="w-100"></div>
           <div class="col-md-3">
-            <p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+            <p><span>Address:</span> Tramri Chowk, 1 u-turn, Lehtrar Road, Taramri, Islamabad, Islamabad Capital Territory</p>
           </div>
           <div class="col-md-3">
-            <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+            <p><span>Phone:</span> <a href="tel://1234567920">+92 312 5238941</a></p>
           </div>
           <div class="col-md-3">
-            <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+            <p><span>Email:</span> <a href="#">info@sdhhospital.com</a></p>
           </div>
           <div class="col-md-3">
-            <p><span>Website</span> <a href="#">yoursite.com</a></p>
+            <p><span>Website</span> <a href="#">www.sdhhospital.com</a></p>
           </div>
         </div>
         <div class="row block-9">
@@ -59,7 +59,15 @@
           
           </div>
 
-          <div class="col-md-6" id="map"></div>
+          <div class="col-md-6" id="">
+              <div class="mapouter">
+                  <div class="gmap_canvas">
+                      <iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Sevenday%20homeopathic%20hospital%2C%20tramri%20chowk%2C%201%20u-turn%2C%20Lehtrar%20Road%2C%20Taramri%2C%20Islamabad%2C%20Islamabad%20Capital%20Territory&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+                      </iframe>Google Maps Generator by <a href="https://www.embedgooglemap.net">embedgooglemap.net</a>
+                  </div>
+                  <style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
+              </div>
+          </div>
         </div>
       </div>
     </section>
@@ -67,54 +75,6 @@
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 
-  <!-- Modal -->
-  <div class="modal fade" id="modalRequest" tabindex="-1" role="dialog" aria-labelledby="modalRequestLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="modalRequestLabel">Make an Appointment</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="modal-body">
-          <form action="#">
-            <div class="form-group">
-              <!-- <label for="appointment_name" class="text-black">Full Name</label> -->
-              <input type="text" class="form-control" id="appointment_name" placeholder="Full Name">
-            </div>
-            <div class="form-group">
-              <!-- <label for="appointment_email" class="text-black">Email</label> -->
-              <input type="text" class="form-control" id="appointment_email" placeholder="Email">
-            </div>
-            <div class="row">
-              <div class="col-md-6">
-                <div class="form-group">
-                  <!-- <label for="appointment_date" class="text-black">Date</label> -->
-                  <input type="text" class="form-control appointment_date" placeholder="Date">
-                </div>    
-              </div>
-              <div class="col-md-6">
-                <div class="form-group">
-                  <!-- <label for="appointment_time" class="text-black">Time</label> -->
-                  <input type="text" class="form-control appointment_time" placeholder="Time">
-                </div>
-              </div>
-            </div>
-            
-
-            <div class="form-group">
-              <!-- <label for="appointment_message" class="text-black">Message</label> -->
-              <textarea name="" id="appointment_message" class="form-control" cols="30" rows="10" placeholder="Message"></textarea>
-            </div>
-            <div class="form-group">
-              <input type="submit" value="Make an Appointment" class="btn btn-primary">
-            </div>
-          </form>
-        </div>
-        
-      </div>
-    </div>
-  </div>
+<?php $this->load->view('inc/modal');?>
 
 <?php $this->load->view('inc/footer');?>

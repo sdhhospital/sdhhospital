@@ -54,4 +54,8 @@ class Home extends CI_Controller {
     {
         $this->load->view('contact');
     }
+    public function login()
+    {
+        $this->load->view('login');
+    }
 }

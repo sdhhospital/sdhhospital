@@ -7696,7 +7696,7 @@ h1, h2, h3, h4, h5,
     .btn.btn-primary:hover {
       border: 1px solid #2E8B57;
       background: transparent;
-      color: #fff; }
+      color: #2E8B57; }
     .btn.btn-primary.btn-outline-primary {
       border: 1px solid #2E8B57;
       background: transparent;
@@ -8187,7 +8187,7 @@ h1, h2, h3, h4, h5,
     z-index: -1; }
   @media (max-width: 767.98px) {
     .aside-stretch {
-      background: #2f89fc; }
+      background: #2E8B57; }
       .aside-stretch:after {
         background: transparent;
         display: none; } }
@@ -8880,8 +8880,8 @@ textarea.form-control {
 
 .block-17 form .search-submit {
   width: 100%;
-  background: #2f89fc;
-  border: 2px solid #2f89fc;
+  background: #2E8B57;
+  border: 2px solid #2E8B57;
   color: #fff;
   padding: 12px 10px;
   -webkit-border-radius: 4px;
@@ -9338,3 +9338,113 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+/***************************************/
+/************ Login Style**************/
+/*************************************/
+
+.loginBox
+{
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  width:350px;
+  height:420px;
+  padding:80px 40px;
+  box-sizing: border-box;
+  background:rgba(0,0,0,0.5) ;
+
+}
+
+
+
+h2
+{
+  margin:0;
+  padding:0 0 20px;
+  color:#fff;
+  text-align:center;
+}
+
+
+
+.loginBox p
+{
+  padding:0;
+  margin:0;
+  font-weight:bold;
+  color:#fff;
+
+}
+
+
+.loginBox input
+{
+  width:100%;
+  margin-bottom: 20px;
+}
+
+.loginBox input[type="text"], .loginBox input[type="password"]
+{
+  border: none;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline:none;
+  height:40px;
+  color:#fff;
+  font-size: 16px;
+
+
+}
+
+
+.loginBox input[type="submit"]
+{
+  border:none;
+  outline:none;
+  height: 40px;
+  color:#fff;
+  font-size:16px;
+  background: linear-gradient(135deg, #2E8B57 0%, #2cbcbc 100%);
+  cursor:pointer;
+  border-radius:20px;
+}
+
+
+.loginBox input[type="submit"]:hover
+{
+  background: #efed40;
+  color: #262626;
+}
+
+
+
+
+.loginBox a
+{
+  color: #fff;
+  font-size:14px;
+  font-weight:bold;
+}
+
+
+::placeholder
+{
+  color:rgba(255,255,255,0.5);
+}
+
+
+.user
+{
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  position:absolute;
+  top:calc(-100px/2);
+  left:calc(50% - 50px);
+  border-radius:50%;
+}
+
+
