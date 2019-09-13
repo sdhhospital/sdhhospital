@@ -12,7 +12,7 @@
                     <li class="ftco-animate"><a href="https://www.instagram.com/"><span class="icon-instagram"></span></a></li>
                 </ul>
             </div>
-            <div class="col-md-2">
+            <div class="col-md-2 offset-1">
                 <div class="ftco-footer-widget mb-4 ml-md-5">
                     <h2 class="ftco-heading-2">Quick Links</h2>
                     <ul class="list-unstyled">
@@ -23,34 +23,34 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-md-4 pr-md-4">
-                <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Recent Blog</h2>
-                    <div class="block-21 mb-4 d-flex">
-                        <a class="blog-img mr-4" style="background-image: url('application/assets/images/image_1.jpg');"></a>
-                        <div class="text">
-                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
-                            <div class="meta">
-                                <div><a href="#"><span class="icon-calendar"></span> Sept 15, 2018</a></div>
-                                <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                                <div><a href="#"><span class="icon-chat"></span> 19</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="block-21 mb-4 d-flex">
-                        <a class="blog-img mr-4" style="background-image: url('application/assets/images/image_2.jpg');"></a>
-                        <div class="text">
-                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
-                            <div class="meta">
-                                <div><a href="#"><span class="icon-calendar"></span> Sept 15, 2018</a></div>
-                                <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                                <div><a href="#"><span class="icon-chat"></span> 19</a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3">
+<!--            <div class="col-md-4 pr-md-4">-->
+<!--                <div class="ftco-footer-widget mb-4">-->
+<!--                    <h2 class="ftco-heading-2">Recent Blog</h2>-->
+<!--                    <div class="block-21 mb-4 d-flex">-->
+<!--                        <a class="blog-img mr-4" style="background-image: url('application/assets/images/image_1.jpg');"></a>-->
+<!--                        <div class="text">-->
+<!--                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>-->
+<!--                            <div class="meta">-->
+<!--                                <div><a href="#"><span class="icon-calendar"></span> Sept 15, 2018</a></div>-->
+<!--                                <div><a href="#"><span class="icon-person"></span> Admin</a></div>-->
+<!--                                <div><a href="#"><span class="icon-chat"></span> 19</a></div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="block-21 mb-4 d-flex">-->
+<!--                        <a class="blog-img mr-4" style="background-image: url('application/assets/images/image_2.jpg');"></a>-->
+<!--                        <div class="text">-->
+<!--                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>-->
+<!--                            <div class="meta">-->
+<!--                                <div><a href="#"><span class="icon-calendar"></span> Sept 15, 2018</a></div>-->
+<!--                                <div><a href="#"><span class="icon-person"></span> Admin</a></div>-->
+<!--                                <div><a href="#"><span class="icon-chat"></span> 19</a></div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+            <div class="col-md-3 offset-1">
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">Office</h2>
                     <div class="block-23 mb-3">

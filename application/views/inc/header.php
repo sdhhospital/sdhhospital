@@ -28,5 +28,7 @@
     <link rel="stylesheet" href="<?php echo base_url()?>application/assets/css/flaticon.css">
     <link rel="stylesheet" href="<?php echo base_url()?>application/assets/css/icomoon.css">
     <link rel="stylesheet" href="<?php echo base_url()?>application/assets/css/style.css">
+
+    <script src="https://kit.fontawesome.com/baa58ba4fc.js"></script>
 </head>
 <body>

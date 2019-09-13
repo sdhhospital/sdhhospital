@@ -14,7 +14,7 @@
                 <li class="nav-item"><a href="<?php echo base_url();?>about" class="nav-link">About</a></li>
                 <li class="nav-item"><a href="<?php echo base_url();?>services" class="nav-link">Services</a></li>
                 <li class="nav-item"><a href="<?php echo base_url();?>doctors" class="nav-link">Doctors</a></li>
-                <li class="nav-item"><a href="<?php echo base_url();?>blog" class="nav-link">Blog</a></li>
+<!--                <li class="nav-item"><a href="--><?php //echo base_url();?><!--blog" class="nav-link">Blog</a></li>-->
                 <li class="nav-item"><a href="<?php echo base_url();?>contact" class="nav-link">Contact</a></li>
                 <li class="nav-item cta"><a href="<?php echo base_url();?>contact" class="nav-link" data-toggle="modal" data-target="#modalRequest"><span>Make an Appointment</span></a></li>
             </ul>
